@@ -1,4 +1,4 @@
-#### Device Generator App 🚀
+#### Advice Generator App 🚀
 
 <img src="https://img.shields.io/github/license/ericneves/advicegenerateapp?color=critical&logo=appveyor&style=flat-square"> <img src="https://img.shields.io/github/last-commit/ericneves/advicegenerateapp?color=blue&logo=appveyor&style=flat-square">
 
