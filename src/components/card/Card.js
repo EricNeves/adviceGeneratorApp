@@ -19,14 +19,14 @@ export default function Card() {
     }
     return (
        
-        <div className='card'>
+        <div className='card' role="main">
             <span className='id'>ADVICE #{id}</span>
 
-            <div className='content__text'>
+            <div className='content__text' role="contentinfo">
                 <p>"{(text)? text : 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam vero.'}"</p>
             </div>
 
-            <div className='divider'></div>
+            <div className='divider' role="divider"></div>
 
             <button title="button" onClick={handleClick}>
             </button>
