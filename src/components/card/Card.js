@@ -28,7 +28,8 @@ export default function Card() {
 
             <div className='divider'></div>
 
-            <button onClick={handleClick}></button>
+            <button title="button" onClick={handleClick}>
+            </button>
         </div>
     )
 }
