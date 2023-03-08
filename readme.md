@@ -1,6 +1,6 @@
 #### Device Generator App 🚀
 
-<img src="https://img.shields.io/github/license/ericneves/qrcode?logo=appveyor&style=for-the-badge"> <img src="https://img.shields.io/github/last-commit/ericneves/qrcode?logo=appveyor&style=for-the-badge">
+<img src="https://img.shields.io/github/license/ericneves/advicegenerateapp?color=critical&logo=appveyor&style=flat-square"> <img src="https://img.shields.io/github/last-commit/ericneves/advicegenerateapp?color=blue&logo=appveyor&style=flat-square">
 
 <p>Projeto web proposto pela plataforma <a href="https://www.frontendmentor.io/">Frontend Mentor</a>.</p>
 
@@ -43,4 +43,4 @@ $ npm run build
 
 #### License 📝
 
-<img src="https://img.shields.io/github/license/ericneves/qrcode?logo=appveyor&style=for-the-badge">
+<img src="https://img.shields.io/github/license/ericneves/advicegenerateapp?color=critical&logo=appveyor&style=flat-square">
