@@ -19,7 +19,7 @@
 $ git clone 
 
 # Install Dependencies
-$ cd adviceGenerateApp && npm install
+$ cd adviceGeneratorApp && npm install
 
 # Execute
 $ npm start
