@@ -13,7 +13,7 @@
 #### Executando ⚙️
 
 ```sh
-# Website: https://advicegenerateappfm.netlify.app/
+# Website: https://fmadvicegeneratorapp.netlify.app/
 
 # Clone
 $ git clone 
