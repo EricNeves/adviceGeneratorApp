@@ -26,7 +26,7 @@ export default function Card() {
                 <p>"{(text)? text : 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam vero.'}"</p>
             </div>
 
-            <div className='divider' role="divider"></div>
+            <div className='divider' role="landmark"></div>
 
             <button title="button" onClick={handleClick}>
             </button>
