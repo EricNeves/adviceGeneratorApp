@@ -14,7 +14,7 @@ export default function Card() {
             setID(response.slip.id)
             setText(response.slip.advice)
         }catch (err) {
-            alert('Sorry, something is wrong :( ')
+            alert('Sorry, something is wrong :(')
         }
     }
     return (
