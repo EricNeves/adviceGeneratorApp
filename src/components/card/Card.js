@@ -20,7 +20,7 @@ export default function Card() {
     return (
        
         <div className='card'>
-            <span className='id'>ADVICE #{id}</span>
+            <h1 className='id'>ADVICE #{id}</h1>
 
             <div className='content__text'>
                 <p>"{(text)? text : 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam vero.'}"</p>
