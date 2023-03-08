@@ -4,11 +4,11 @@
 
 <p>Projeto web proposto pela plataforma <a href="https://www.frontendmentor.io/">Frontend Mentor</a>.</p>
 
-<p>Este projeto consiste em integrar APIs de terceiros, utilizando HTML, CSS, JS e a API <a href="https://api.adviceslip.com/">Advice Slip API</a> para gerar citações aleatórias.</p>
+<p>Este projeto consiste em integrar APIs de terceiros, utilizando <b>HTML</b>, <b>CSS</b>, <b>JS</b> e a <b>API</b> <a href="https://api.adviceslip.com/">Advice Slip API</a> para gerar citações aleatórias.</p>
 
-<p>Foram implementadas algumas outras ferramentas, como a configuração e utilização da biblioteca ReactJS, juntamente com o Webpack e Babel, que são ferramentas responsáveis pela permissão da usabilidade da biblioteca ReactJS.</p>
+<p>Foram implementadas algumas outras ferramentas, como a configuração e utilização da biblioteca <b>ReactJS</b>, juntamente com o <b>Webpack</b> e <b>Babel</b>, que são ferramentas responsáveis pela permissão da usabilidade da biblioteca <b>ReactJS</b>.</p>
 
-<p>Solução: https://www.frontendmentor.io/solutions/advice-generator-app-gfT4RY_Ih7</p>
+<p><b>Solução:</b> https://www.frontendmentor.io/solutions/advice-generator-app-gfT4RY_Ih7</p>
 
 <img src=".github/screenshot.PNG">
 
