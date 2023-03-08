@@ -19,7 +19,7 @@ export default function Card() {
     }
     return (
        
-        <div className='card'>
+        <div className='card' role="main">
             <h1 className='id'>ADVICE #{id}</h1>
 
             <div className='content__text'>
