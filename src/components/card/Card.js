@@ -22,11 +22,11 @@ export default function Card() {
         <div className='card' role="main">
             <span className='id'>ADVICE #{id}</span>
 
-            <div className='content__text' role="contentinfo">
+            <div className='content__text'>
                 <p>"{(text)? text : 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam vero.'}"</p>
             </div>
 
-            <div className='divider' role="landmark"></div>
+            <div className='divider'></div>
 
             <button title="button" onClick={handleClick}>
             </button>
